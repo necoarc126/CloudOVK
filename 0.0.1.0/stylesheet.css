@@ -1,0 +1,337 @@
+a {
+    color: #2d3577
+}
+
+
+h3 {
+    color: #4150bd
+}
+
+h4 {
+    color: #4150bd
+}
+
+h5 {
+    color: #4150bd
+}
+
+h6 {
+    color: #4150bd
+}
+
+h7 {
+    color: #4150bd
+}
+
+h8 {
+    color: #4150bd
+}
+
+h9 {
+    color: #4150bd
+}
+
+h10 {
+    color: #4150bd
+}
+
+nobold {
+    color: #3c3c3c
+}
+
+.page_header {
+    background: url(themepacks/cloudy/1.0/res/xheader.png)
+}
+
+body {
+    background: url(themepacks/cloudy/1.0/res/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    zoom: 110%
+}
+
+.wrap1 {
+    background-color: white
+}
+
+.wrap2 {
+    background-color: white
+}
+
+.sidebar {
+    background: url(themepacks/cloudy/1.0/res/sidebar.png);
+    box-shadow: 0px 0px 10px 0px
+}
+
+.content_title_unexpanded {
+    background-color: #eae7f4;
+    color: #000;
+    background-repeat: no-repeat;
+    border-top: #dce2ff
+}
+
+.content_title_expanded {
+    background-color: #eae7f4;
+    color: #000;
+    background-repeat: no-repeat;
+    border-top: #dce2ff
+}
+
+.content_subtitle {
+    background: #edecf2;
+    color: #000;
+    background-repeat: no-repeat
+}
+
+.page_footer {
+    background-color: white;
+    margin: 39%;
+    width: 33%;
+    box-shadow: 0px 0px 10px 0px
+}
+
+.button {
+    background-color: #3e4399
+}
+
+.activetabs.tab {
+    background-color: #bec0d5
+}
+
+.settings_delete {
+    background-color: #ffdbdb
+}
+
+#activetabs {
+    background: #4557b5;
+}
+
+.searchBtn {
+    border: solid 1px #6244e8;
+    background-color: #3e3dbb
+}
+
+.searchOptionName {
+    background-color: #e1ddf0;
+    color: #313131;
+    border-bottom: 2px solid #d3ceff;
+}
+
+.searchList #used {
+    color: white !important;
+    border: solid 0.125rem #4f45b7;
+    background: #614db5;
+}
+
+.messenger-app--messages {
+    background-color: #fff
+}
+
+.messenger-app--input {
+    background-color: #d5d4e3
+}
+
+.ovk-diag-head {
+    background-color: #443bae;
+    border-bottom: #2f2586
+}
+
+.ovk.diag {
+    border:#ced8ff
+}
+
+.ovk-diag-action {
+    background-color: #e8e8ff
+}
+
+.ovk-diag-cont {
+    background-color: #b9c4ff9c}
+
+.audioEntry .performer a {
+    color: #3f379f;
+}
+
+.audioEntry .withLyrics {
+    color: #5e64ac
+}
+
+.audioEntry.nowPlaying {
+    background: #5f5cb9;
+    border: 1px solid #201d2b;
+    box-sizing: border-box
+}
+
+.audioEntry.nowPlaying:hover {
+    background: #3e4986 !important;
+}
+
+.audioEmbed .lyrics.showed {
+    font-size: 12px
+}
+
+.toTop {
+    background-color: #4f4e7f94;
+    color: #fff
+}
+
+b {
+    color: #5e64ac
+}
+
+.showMore, .showMoreAudiosPlaylist {
+    background: #c2d4ff
+}
+
+.addToPlaylist {
+    background-color: #aac5ff4a
+}
+
+.page_yellowheader span {
+    color: #00000082;
+}
+
+.msg.msg_succ {
+    border-color: #3d3b58;
+    background-color: #e0d7f3;
+}
+
+.msg.msg_err {
+    border-color: #20249a;
+    background-color: #e2e0ff;
+}
+
+
+element.style {
+    display: inline-block;
+    font-size: 48px;
+    height: 60px;
+    color: #282f93;
+}
+
+.header_navigation .link {
+    background: url(themepacks/cloudy/1.0/res/divider.png)
+}
+
+.page_body {
+    box-shadow: 0px 0px 10px 0px
+}
+
+.completeness-gauge>div {
+    background-color: #bbc2ff;
+    border-top: 1px solid #b9b59700
+}
+
+.completeness-gauge {
+    background-color: #dfe2ff;
+    border-top: 1px solid #b9b59700
+}
+
+.completeness-gauge-gold {
+    background-color: #ccd7ff;
+    border-top: 1px solid #b9b59700
+}
+
+.completeness-gauge>div {
+    background-color: #909bff;
+    border-top: 1px solid #b9b59700
+}
+
+.name-checkmark {
+    content: url(themepacks/cloudy/1.0/res/checkmark.png)
+}
+
+.user-alert {
+    border: 2px solid #767fc3;
+    background-color: #bdcef3;
+    color: #000000
+}
+
+.blocked {
+    color: #600
+}
+
+.edit_link {
+    color: #7c7fff96
+}
+
+.paginator a {
+    border-top: 3px solid #cfc8ff
+}
+
+.paginator a.active {
+    border-top: 3px solid #998aff
+}
+
+.audioStatus {
+    color: #1b1751
+}
+
+/* Да, я изобретаю велосипед. Вопросы? */
+
+.audioEntry .playerButton .playIcon {
+    content: url(themepacks/cloudy/1.0/res/play.png)
+}
+
+.audioEntry .playerButton .playIcon.paused {
+    content: url(themepacks/cloudy/1.0/res/stop.png)
+}
+
+.bigPlayer .paddingLayer .playButtons .playButton.pause {
+    content: url(themepacks/cloudy/1.0/res/stop.png)
+}
+
+.bigPlayer .paddingLayer .playButtons .playButton {
+    content: url(themepacks/cloudy/1.0/res/play.png)
+}
+
+.bigPlayer .paddingLayer .playButtons .nextButton {
+    content: url(themepacks/cloudy/1.0/res/next.png)
+}
+
+.bigPlayer .paddingLayer .playButtons .backButton {
+    content: url(themepacks/cloudy/1.0/res/back.png)
+}
+
+.bigPlayer .paddingLayer .additionalButtons .repeatButton {
+    content: url(themepacks/cloudy/1.0/res/repeat.png)
+}
+
+.bigPlayer .paddingLayer .additionalButtons .shuffleButton {
+    content: url(themepacks/cloudy/1.0/res/shuffle.png)
+}
+
+.bigPlayer .paddingLayer .additionalButtons .deviceButton {
+    content: url(themepacks/cloudy/1.0/res/device.png)
+}
+
+.audioEntry .buttons .edit-icon {
+    content: url(themepacks/cloudy/1.0/res/edit.png)
+}
+
+.audioEntry .buttons .add-icon-group {
+    content: url(themepacks/cloudy/1.0/res/add.png)
+}
+
+.audioEntry .buttons .remove-icon {
+    content: url(themepacks/cloudy/1.0/res/remove.png)
+}
+
+.audioStatus::before {
+    content: url(themepacks/cloudy/1.0/res/status.png)
+}
+
+.audioEntry .buttons .report-icon {
+    content: url(themepacks/cloudy/1.0/res/report.png)
+}
+
+.audioEntry .buttons .remove-icon-group {
+    content: url(themepacks/cloudy/1.0/res/remove-g.png)
+}
+
+.audioEntry .buttons .add-icon {
+    content: url(themepacks/cloudy/1.0/res/add-b.png)
+}
+
+.explicitMark {
+    content: url(themepacks/cloudy/1.0/res/explicit.png)
+}

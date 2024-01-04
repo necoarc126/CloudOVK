@@ -1,0 +1,9 @@
+.page_header {
+    background: url('/themepack/cloudy/1.0/res/header.png')
+}
+
+body {
+    background: url('/themepack/cloudy/1.0/res/bxmas.png');
+    background-size: cover;
+    background-repeat: no-repeat
+}
