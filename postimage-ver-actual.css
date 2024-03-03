@@ -333,3 +333,13 @@ element.style {
 .explicitMark {
     content: url('https://i.postimg.cc/Jzc4MdQ3/explicit.png')
 }
+
+select {
+  color: #000 !important;
+  border: 1px solid #c7c2ff;
+  background-color: #dfd7ff
+}
+
+#votesBalance {
+  background-color: #f2f0ff
+}
