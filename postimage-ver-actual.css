@@ -40,7 +40,8 @@ nobold {
 }
 
 .page_header {
-    background: url('https://i.postimg.cc/KcWFYrF6/xheader.png')
+    background: url('https://i.postimg.cc/KcWFYrF6/xheader.png');
+    box-shadow: 0px 2px 12px 2px #8d8d8d0d
 }
 
 body {
